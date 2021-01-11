@@ -1,1 +1,1 @@
-Some of my projects have been moved to: https://git.sr.ht/~thestr4ng3r
+My personal projects are on https://git.sr.ht/~thestr4ng3r
